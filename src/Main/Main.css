@@ -1,0 +1,21 @@
+.main {
+  text-align: center;
+}
+
+.md-form {
+  margin-top: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.md-form .prefix{
+  left: 0;
+  top: 12px;
+}
+
+.image {
+  width: 150px;
+}
+
+.searchContainer {
+  margin: auto;
+}
